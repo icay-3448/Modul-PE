@@ -139,3 +139,4 @@ void loop() {
 - Test dengan Serial Monitor untuk debugging
 
 ## 🎉 Selamat! Anda telah menyelesaikan program Arduino pertama!
+Lanjut ke: [Bab 2 - Pemrograman Umum Arduino](2-pemrograman-umum/README.md)
