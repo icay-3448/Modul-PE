@@ -85,11 +85,11 @@ Modul ini mendukung simulasi online melalui:
 - ⚡ Wokwi Arduino Simulator
 
 📝 License
-Modul ini dilisensikan di bawah MIT License.
+- Modul ini dilisensikan di bawah MIT License.
 
 📞 Support
-📧 Email: [prcipb@gmail.com]
-💬 Whatsapp: [081617073448]
+- 📧 Email: [prcipb@gmail.com]
+- 💬 Whatsapp: [081617073448]
 
 🏆 Credits
-Dikembangkan oleh Physics Robotic Club | Fisika IPB.
+- Dikembangkan oleh Physics Robotic Club | Fisika IPB.
