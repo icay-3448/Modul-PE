@@ -81,8 +81,8 @@ void loop() {
 
 ## 🌐 Simulasi Online
 Modul ini mendukung simulasi online melalui:
-- 🔧 Tinkercad Circuits
-- ⚡ Wokwi Arduino Simulator
+- 🔧 [Tinkercad Circuits](https://www.tinkercad.com/)
+- ⚡ [Wokwi Arduino Simulator](https://wokwi.com/arduino)
 
 📝 License
 - Modul ini dilisensikan di bawah MIT License.
