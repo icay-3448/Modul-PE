@@ -49,3 +49,47 @@ void loop() {
   digitalWrite(13, LOW);
   delay(1000);
 }
+```
+
+## 📖 Cara Menggunakan Modul
+1. 👶 Pemula: Mulai dari Bab 1 secara berurutan
+2. 🚶 Berpengalaman: Langsung ke bab yang dibutuhkan
+3. 🔧 Praktikum: Ikuti contoh kode dan project
+4. 🔬 Eksperimen: Modifikasi kode sesuai kebutuhan
+
+## 🔧 Hardware yang Disarankan
+### Board Arduino
+- Arduino Uno R3 (Recommended untuk pemula)
+- Arduino Nano
+- Arduino Mega 2560
+
+### Komponen Dasar
+- LED berbagai warna
+- Resistor (220Ω, 1kΩ, 10kΩ)
+- Potensiometer 10kΩ
+- Push button
+- Breadboard dan kabel jumper
+
+### Sensor dan Aktuator
+- LDR (Light Dependent Resistor)
+- Sensor Ultrasonik HC-SR04
+- Sensor Suhu DHT11/DHT22
+- Motor DC kecil
+- Servo Motor SG90
+- LCD 16x2 dengan I2C
+- Buzzer
+
+## 🌐 Simulasi Online
+Modul ini mendukung simulasi online melalui:
+- 🔧 Tinkercad Circuits
+- ⚡ Wokwi Arduino Simulator
+
+📝 License
+Modul ini dilisensikan di bawah MIT License.
+
+📞 Support
+📧 Email: [prcipb@gmail.com]
+💬 Whatsapp: [081617073448]
+
+🏆 Credits
+Dikembangkan oleh Physics Robotic Club | Fisika IPB.
